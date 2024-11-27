@@ -1,0 +1,11 @@
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\bin\Debug\MessengerFake.exe.config
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\bin\Debug\MessengerFake.exe
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\bin\Debug\MessengerFake.pdb
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.csproj.AssemblyReference.cache
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.Form1.resources
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.Properties.Resources.resources
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.csproj.GenerateResource.cache
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.csproj.CoreCompileInputs.cache
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.exe
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.pdb
+C:\Users\letoa\source\repos\MessengerFake\MessengerFake\obj\Debug\MessengerFake.Form2.resources

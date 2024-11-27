@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|c:\\users\\letoa\\source\\repos\\messengerfake\\messengerfake\\quanlytienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\quanlytienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\quanlytienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\quanlytienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\dichvuthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\dichvuthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\dichvuthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\dichvuthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|C:\\Users\\letoa\\source\\repos\\MessengerFake\\messengerfake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEDD62D-F7FB-464D-9A1E-7C7A7C21D6BC}|MessengerFake\\FORM(UI).csproj|solutionrelative:messengerfake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dichvuthem.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\dichvuthem.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\dichvuthem.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\dichvuthem.cs",
+              "RelativeToolTip": "MessengerFake\\dichvuthem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:51:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quanlytienban.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlytienban.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\quanlytienban.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlytienban.cs",
+              "RelativeToolTip": "MessengerFake\\quanlytienban.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAA0BAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:43:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dichvuthem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\dichvuthem.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\dichvuthem.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\dichvuthem.cs [Design]",
+              "RelativeToolTip": "MessengerFake\\dichvuthem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:45:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quanlydichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlydichvu.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\quanlydichvu.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlydichvu.cs [Design]",
+              "RelativeToolTip": "MessengerFake\\quanlydichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:34:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "khachhang.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\khachhang.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\khachhang.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\khachhang.cs",
+              "RelativeToolTip": "MessengerFake\\khachhang.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:26:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quanlytienban.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlytienban.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\quanlytienban.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlytienban.cs [Design]",
+              "RelativeToolTip": "MessengerFake\\quanlytienban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:21:14.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "khachhang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\khachhang.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\khachhang.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\khachhang.cs [Design]",
+              "RelativeToolTip": "MessengerFake\\khachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:26:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quanlydichvu.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlydichvu.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\quanlydichvu.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\quanlydichvu.cs",
+              "RelativeToolTip": "MessengerFake\\quanlydichvu.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:03:00.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\Program.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\Program.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\Program.cs",
+              "RelativeToolTip": "MessengerFake\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:11:46.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\Form1.cs",
+              "RelativeDocumentMoniker": "MessengerFake\\Form1.cs",
+              "ToolTip": "C:\\Users\\letoa\\source\\repos\\MessengerFake\\MessengerFake\\Form1.cs",
+              "RelativeToolTip": "MessengerFake\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:43:12.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
